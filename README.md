@@ -1,2 +1,2 @@
-# Test-Driven-Development
-My attempts at implementing Test Driven Development
+# Test-driven-development
+My attempts at implementing Test driven development
